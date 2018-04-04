@@ -7,6 +7,7 @@ This round involves you building a simple web application which fetches news art
 2. It must fetch news articles via news api . News api has about 70 news sources . Choose about 5 news sources and display the top 10 articles (Thier documentation explains how to query these articles)
 3. Display these news sources as tiles / links in your web application and clicking on them must navigate to a screen which shows the top 10 articles . (You can be creative here . The api gives a lot of information about each article ,choose to render the most appealing information)
 4. The user must be able to save the articles and there must be a button / link which allows the user to look at the saved articles (Bonus-Points)
+5. The user must be able to choose 5 news sources from the 70 news sources (Bonus points).
 
 You will essentially have 3 screens , feel free to improvise
 1. Login screen.
