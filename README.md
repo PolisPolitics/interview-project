@@ -15,7 +15,7 @@ You will essentially have 3 screens , feel free to improvise
 3. Detail Screen which shows either ten news articles by source or saved articles
 
 ### Tech Stack
-Choose the stack you are most comfortable with . We suggest the following
+We suggest the following
 1. Backend - Node.js
 2. Frontend - React
 3. Database - lowdb - https://github.com/typicode/lowdb . This is simple and serves this task
