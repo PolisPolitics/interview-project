@@ -24,7 +24,7 @@ We suggest the following
 ### News API
 1. You need to register with news api to generate an api-key and get access to thier api. https://newsapi.org/
 2. Register as a developer and you should see the api-key as soon as you complete the regisration.
-3. Read the documentation ,the get started link should have all the information you need for this task.
+3. Read the documentation ,the get started link should have most of the information you need for this task.
 4. Make sure you add a link to news api at the footer of your screen.
 
 ### How to turn in your work ?
