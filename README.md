@@ -31,6 +31,6 @@ We suggest the following , but feel free to use the ones you are comfortable wit
 Commit your code in a repo in your github and add the following users as collaborators
 1. marcosbozza
 2. NdabaNdebele
-3. adichills
+3. anjiemerchant
 
 Please add a readme which describes the necessary installation and how to get your web application running.
